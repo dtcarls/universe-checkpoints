@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/dtcarls/dev/checkpoints-universe/mspacman-ram/train/model.ckpt-0"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/mspacman-ram/train/model.ckpt-0"

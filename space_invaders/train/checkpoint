@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/dtcarls/dev/checkpoints-universe/space_invaders/train/model.ckpt-18951656"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/space_invaders/train/model.ckpt-18880416"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/space_invaders/train/model.ckpt-18898293"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/space_invaders/train/model.ckpt-18916159"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/space_invaders/train/model.ckpt-18933825"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/space_invaders/train/model.ckpt-18951656"

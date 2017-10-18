@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/dtcarls/dev/checkpoints-universe/pong-vnc-dist-tf0.12.1/train/model.ckpt-14973175"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/pong-vnc-dist-tf0.12.1/train/model.ckpt-14922336"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/pong-vnc-dist-tf0.12.1/train/model.ckpt-14935025"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/pong-vnc-dist-tf0.12.1/train/model.ckpt-14947765"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/pong-vnc-dist-tf0.12.1/train/model.ckpt-14960510"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/pong-vnc-dist-tf0.12.1/train/model.ckpt-14973175"

@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/dtcarls/dev/checkpoints-universe/pong/train/model.ckpt-1857383"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/pong/train/model.ckpt-1786762"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/pong/train/model.ckpt-1804315"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/pong/train/model.ckpt-1822049"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/pong/train/model.ckpt-1839675"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/pong/train/model.ckpt-1857383"

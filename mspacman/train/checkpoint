@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/dtcarls/dev/checkpoints-universe/mspacman/train/model.ckpt-33311432"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/mspacman/train/model.ckpt-33250669"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/mspacman/train/model.ckpt-33265829"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/mspacman/train/model.ckpt-33281041"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/mspacman/train/model.ckpt-33296223"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/mspacman/train/model.ckpt-33311432"

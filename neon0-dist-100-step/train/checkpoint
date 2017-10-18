@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/dtcarls/dev/checkpoints-universe/neon0-dist-100-step/train/model.ckpt-12045"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/neon0-dist-100-step/train/model.ckpt-8545"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/neon0-dist-100-step/train/model.ckpt-9545"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/neon0-dist-100-step/train/model.ckpt-10345"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/neon0-dist-100-step/train/model.ckpt-11245"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/neon0-dist-100-step/train/model.ckpt-12045"

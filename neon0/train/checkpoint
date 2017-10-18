@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/dtcarls/dev/checkpoints-universe/neon0/train/model.ckpt-58135"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/neon0/train/model.ckpt-55948"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/neon0/train/model.ckpt-56428"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/neon0/train/model.ckpt-56995"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/neon0/train/model.ckpt-57575"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/neon0/train/model.ckpt-58135"

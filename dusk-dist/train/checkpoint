@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/dtcarls/dev/checkpoints-universe/dusk-dist/train/model.ckpt-605578"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/dusk-dist/train/model.ckpt-602891"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/dusk-dist/train/model.ckpt-603637"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/dusk-dist/train/model.ckpt-604317"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/dusk-dist/train/model.ckpt-604773"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/dusk-dist/train/model.ckpt-605578"

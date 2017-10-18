@@ -1,0 +1,1 @@
+/usr/bin/python3 train.py --num-workers 6 --env-id flashgames.NeonRace-v0 --log-dir /home/dtcarls/dev/checkpoints-universe/neon0-dist-2 -r vnc://192.168.205.11:5900+15900,vnc://192.168.205.11:5901+15901,vnc://192.168.205.11:5902+15902,vnc://192.168.205.11:5903+15903,vnc://localhost:5900+15900,vnc://localhost:5901+15901

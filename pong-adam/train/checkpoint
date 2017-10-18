@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/dtcarls/dev/checkpoints-universe/pong-adam/train/model.ckpt-381035"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/pong-adam/train/model.ckpt-293799"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/pong-adam/train/model.ckpt-315566"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/pong-adam/train/model.ckpt-337364"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/pong-adam/train/model.ckpt-359201"
+all_model_checkpoint_paths: "/home/dtcarls/dev/checkpoints-universe/pong-adam/train/model.ckpt-381035"
